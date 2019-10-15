@@ -20,7 +20,7 @@ describe "holiday_supplies_hash" do
 
  # Question 1
  # Write a method that returns the second supply for the Fourth of July
-
+describe
   # Question 2
   # Write a method that adds a supply to all Winter holidays
   describe "#add_supply_to_winter_holidays" do
